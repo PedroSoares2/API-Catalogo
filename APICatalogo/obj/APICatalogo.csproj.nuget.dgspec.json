@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
+    "C:\\Users\\pedro.psouza\\Documents\\PersonalProjects\\API-Catalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
+    "C:\\Users\\pedro.psouza\\Documents\\PersonalProjects\\API-Catalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\pedro.psouza\\Documents\\PersonalProjects\\API-Catalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\APICatalogo\\APICatalogo\\obj\\",
+        "projectPath": "C:\\Users\\pedro.psouza\\Documents\\PersonalProjects\\API-Catalogo\\APICatalogo\\APICatalogo.csproj",
+        "packagesPath": "C:\\Users\\pedro.psouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro.psouza\\Documents\\PersonalProjects\\API-Catalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro.psouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
